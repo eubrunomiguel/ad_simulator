@@ -22,4 +22,4 @@ Available Builds for MAC and Windows 32b on builds folder
 
 ![alt text](https://i.imgur.com/3DzqrCn.png)
 
-![alt text](https://imgur.com/iI1oij5)
+![alt text](https://i.imgur.com/iI1oij5.png)
