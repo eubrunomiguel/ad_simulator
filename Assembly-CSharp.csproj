@@ -57,6 +57,9 @@
      <Compile Include="Assets\Network\Client.cs" />
      <Compile Include="Assets\Network\Queue.cs" />
      <Compile Include="Assets\Network\Server.cs" />
+ <Reference Include="Assembly-CSharp-firstpass">
+ <HintPath>/Users/eubrunomiguel/AutoCar/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -96,10 +99,6 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/eubrunomiguel/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{9C53C481-2CF4-2522-98AA-F04B56FBED69}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
